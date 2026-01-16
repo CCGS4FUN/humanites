@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@bazel/bazelisk@^1.25.0":
-  version "1.25.0"
-  resolved "https://registry.yarnpkg.com/@bazel/bazelisk/-/bazelisk-1.25.0.tgz#aded6d2822dd7220fa2290c97cb5e285c8fda770"
-  integrity sha512-IgesSUh9EwwLI9+Vs5rb/sx7vh6cI97CRLPqw9+/egFzeZlB5S2fTsKwbdDxtTVPjQMGS3GY64tTNsgejVFeKg==
+"@bazel/bazelisk@^1.28.0":
+  version "1.28.0"
+  resolved "https://registry.yarnpkg.com/@bazel/bazelisk/-/bazelisk-1.28.0.tgz#f0586c87a40542d0e784f523dad771022a5f340d"
+  integrity sha512-TuS0DzLV6Hu6zwuQsrZUeqfrs3vKF3hLGJfgTWy6fXTqoYv72SxgmJ6seep1/yzTHKcGMglO4S+KuIXGlmnGyw==
